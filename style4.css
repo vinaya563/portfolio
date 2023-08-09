@@ -1,0 +1,51 @@
+body {
+    background: #081b29;
+    color: aliceblue;
+
+}
+h1{
+    margin-top: 120px;
+    margin-left: 600px;
+    font-size: 65px;
+}
+
+.address{
+    display: flex;
+justify-content: space-evenly;
+width:98%;
+margin-top: 150px;
+
+
+}
+.address2 {
+    display: flex;
+   
+  
+    justify-content: space-evenly;
+    width: 101%;
+    margin-top: 2px;
+  
+    font-weight: 700px;
+
+
+}
+.address2 p{
+    font-weight:700;
+    font-size:25px;
+
+}
+.address3 {
+    display: flex;
+    justify-content:space-evenly;
+    width: 102%;
+    margin-top: 0.2px;
+    
+
+
+}
+.address3 p{
+    margin-top: 0.2px;
+}
+.mail{
+    margin-right: 80px;
+}

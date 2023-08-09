@@ -1,0 +1,108 @@
+body {
+    background: #081b29;
+    color: aliceblue;
+
+}
+
+h1 {
+    align-items: center;
+    margin-top: 80px;
+    display: flex;
+    margin-left: 600px;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    height: 20vh;
+    width: 100vh;
+    margin-left: 400px;
+    ;
+}
+
+.para {
+
+    font-size: 20px;
+    height: 20vh;
+    width: 100vh;
+    margin-left: 100px;
+    line-height: 30px;
+
+}
+
+.skills {
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 140px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.icons {
+    display: inline flex;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+i {
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+
+h6 {
+    margin-top: 2px;
+    font-size: 20px;
+    font-weight: 200;
+    align-items: center;
+    margin-top: 12px;
+    margin-left: 6px;
+    display: flex;
+    ;
+    justify-content: center;
+}
+
+a {
+    color: antiquewhite;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+    color: wheat;
+    margin-top: 20px;
+}
+
+.cpi {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.icons img {
+    height: 130px;
+    width: 130px;
+}
+
+.cpi a {
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cpi a img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    margin: 10px 0;
+}
